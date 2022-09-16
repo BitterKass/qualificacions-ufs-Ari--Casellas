@@ -5,6 +5,7 @@ class UnitatFormativa:
     nom = None
     qualificacio = None
 
+
     def __init__(self, nom):
         self.nom = nom
 
